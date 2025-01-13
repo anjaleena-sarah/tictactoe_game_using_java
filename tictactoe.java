@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class tictactoe 
 {
-    public static void main(String[] args)  
+    public static void main(String[] args)   
     {
         char[][] board = new char[3][3]; //creating a 3x3 board
 
