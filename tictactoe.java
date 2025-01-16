@@ -6,7 +6,7 @@ public class tictactoe
     {
         char[][] board = new char[3][3]; //creating a 3x3 board
 
-        // Initializing the board as empty
+        // Initializing the board as empty 
         for (int row = 0; row < board.length; row++) 
         {
             for (int col = 0; col < board[row].length; col++)
